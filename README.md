@@ -1,5 +1,5 @@
 # Math-Game
-A Math Game using JavaScript.
+A Simple Math Game.
 
 ![math game 1](https://github.com/sangeethagithubs/Math-Game/assets/137398167/03995182-8a75-483e-b91d-e0eb251d05f0)
 
